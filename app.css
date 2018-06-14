@@ -1,0 +1,16 @@
+.success,
+.error {
+  display: inline-block;
+  border-radius: 10px;
+  color: #fff;
+  margin: 0 0 10px 0;
+  padding: 10px 40px;
+}
+
+.success {
+  background-color: green;
+}
+
+.error {
+  background-color: red;
+}
