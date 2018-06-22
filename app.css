@@ -14,3 +14,7 @@
 .error {
   background-color: red;
 }
+
+.remove-book {
+  cursor: pointer;
+}
